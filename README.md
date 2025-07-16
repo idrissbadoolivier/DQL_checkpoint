@@ -225,8 +225,9 @@ WHERE o.Customer_id IS NULL;
 ```
 
 ```text
-| CUSTOMER_ID |
-|-------------|
-| (customers with no orders will be shown here) |
+CUSTOMER_ID
+-----------
+6
+7
 ```
 
