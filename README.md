@@ -32,6 +32,7 @@ CREATE TABLE Orders (
 );
 ```
 ### Sample Data Insertion
+```sql
 -- Customers
 INSERT INTO Customer VALUES
 (1, 'John Smith', '555-1234'), (2, 'Emily Johnson', '555-2345'),
